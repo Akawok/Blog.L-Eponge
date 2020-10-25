@@ -27,3 +27,5 @@ Je souhaite pouvoir comparer l'évolution de mon code à travers le temps.
 Modifiez le fichier log_sql.php afin de mettre vos identifiants de connections à la base de données.
 
 Bonne balade !
+
+N.B => JETTEZ UN OEIL AUX SCREENSHOTS POUR VOIR LE RENDU DU PROJET
