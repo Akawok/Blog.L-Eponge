@@ -12,7 +12,7 @@ Utilisation de tinymce pour le CRUD de la page admin.
 
 Aucune modification ou factorisation n'a été effectué depuis la fin de l'evaluation.
 
-Je souhaite pouvoir comparer l'évolution de mon code à travers le temps.
+Je souhaite avoir un apperçu de l'évolution de mon code à travers le temps.
 
 ==== INSTALLATION ====
 
