@@ -8,7 +8,7 @@ Cette evaluation est réalisée en Php & Mysql.
 
 Utilisation de la POO & Requêtes en PDO
 
-Utilisation de tinymce pour le CRUD de la page admin.
+Intégration & Utilisation de tinymce pour le CRUD de la page admin.
 
 Aucune modification ou factorisation n'a été effectué depuis la fin de l'evaluation.
 
